@@ -1,0 +1,17 @@
+{
+  "district": "Kalaburagi",
+  "mandi": "Chincholi",
+  "commodity": "Red gram/Arhar/Tur(whole)",
+  "variety": "Arhar (Whole)",
+  "grade": "Non-FAQ",
+  "target_date": "2026-10-24",
+  "history": [
+    {"date": "2026-10-09", "modal_price": 10200},
+    {"date": "2026-10-12", "modal_price": 10000},
+    {"date": "2026-10-15", "modal_price": 11100},
+    {"date": "2026-10-17", "modal_price": 11100},
+    {"date": "2026-10-19", "modal_price": 11100},
+    {"date": "2026-10-21", "modal_price": 10000},
+    {"date": "2026-10-22", "modal_price": 10200}
+  ]
+}
